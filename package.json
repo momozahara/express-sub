@@ -1,0 +1,16 @@
+{
+  "name": "express-sub",
+  "version": "1.0.5",
+  "description": "An easy and simple subdomain routing.",
+  "main": "index.js",
+  "devDependencies": {
+    "express": "4.17.1"
+  },
+  "keywords": [
+    "express",
+    "subdomain"
+  ],
+  "homepage": "https://github.com/momozahara/express-sub/",
+  "author": "momozahara",
+  "license": "MIT"
+}
