@@ -3,7 +3,7 @@ const
         let hostname = req.headers.host
 
         if(!domain){
-            domain = null
+            domain = ''
         }
         if (hostname == 'localhost' || hostname == domain) {
             return app(req, res, callback)
